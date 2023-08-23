@@ -1,0 +1,1 @@
+{"abi":[{"constant":true,"inputs":[],"name":"gemJoin","outputs":[{"internalType":"address","name":"","type":"address"}],"payable":false,"stateMutability":"view","type":"function"}],"contractName":"UrnLike"}

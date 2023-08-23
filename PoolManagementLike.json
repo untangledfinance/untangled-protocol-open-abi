@@ -1,0 +1,1 @@
+{"abi":[{"constant":true,"inputs":[{"internalType":"address","name":"","type":"address"}],"name":"isExistingPools","outputs":[{"internalType":"bool","name":"","type":"bool"}],"payable":false,"stateMutability":"view","type":"function"}],"contractName":"PoolManagementLike"}

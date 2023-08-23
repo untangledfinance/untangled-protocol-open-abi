@@ -1,0 +1,9 @@
+exports.AcceptedInvoiceToken = require("./AcceptedInvoiceToken.json");
+exports.AcceptedInvoiceTokenImpl = require("./AcceptedInvoiceTokenImpl.json");
+exports.AcceptedInvoiceTokenProxy = require("./AcceptedInvoiceTokenProxy.json");
+exports.LoanAssetToken = require("./LoanAssetToken.json");
+exports.Registry = require("./Registry.json");
+exports.SecuritizationManager = require("./SecuritizationManager.json");
+exports.SecuritizationPool = require("./SecuritizationPool.json");
+exports.TokenGenerationEvent = require("./TokenGenerationEvent.json");
+exports.TokenGenerationEventFactory = require("./TokenGenerationEventFactory.json");

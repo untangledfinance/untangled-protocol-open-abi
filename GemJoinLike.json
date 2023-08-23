@@ -1,0 +1,1 @@
+{"abi":[{"constant":false,"inputs":[],"name":"gem","outputs":[{"internalType":"address","name":"","type":"address"}],"payable":false,"stateMutability":"nonpayable","type":"function"},{"constant":true,"inputs":[],"name":"ilk","outputs":[{"internalType":"bytes32","name":"","type":"bytes32"}],"payable":false,"stateMutability":"view","type":"function"}],"contractName":"GemJoinLike"}
