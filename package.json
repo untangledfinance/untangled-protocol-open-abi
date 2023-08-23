@@ -1,0 +1,19 @@
+{
+  "name": "untangled-protocol-open-abi",
+  "version": "1.0.0",
+  "description": "Application Binary Interfaces of Untangled Finance Protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/untangledfinance/untangled-protocol-open-abi.git"
+  },
+  "author": "Untangled Finance",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/untangledfinance/untangled-protocol-open-abi/issues"
+  },
+  "homepage": "https://github.com/untangledfinance/untangled-protocol-open-abi#readme"
+}
