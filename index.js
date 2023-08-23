@@ -20,3 +20,62 @@ exports.TrancheLike = require("./abis/TrancheLike.json");
 exports.CappedCrowdsale = require("./abis/CappedCrowdsale.json");
 exports.CappedCrowdsaleService = require("./abis/CappedCrowdsaleService.json");
 exports.TokenGenerationEventService = require("./abis/TokenGenerationEventService.json");
+
+// exports.CollateralizedInterestTermsContract = require("./abis/CollateralizedInterestTermsContract.json");
+// exports.CollateralManagementProject = require("./abis/CollateralManagementProject.json");
+// exports.CollateralManagementToken = require("./abis/CollateralManagementToken.json");
+// exports.CommodityDebtKernel = require("./abis/CommodityDebtKernel.json");
+// exports.CommodityDebtRegistry = require("./abis/CommodityDebtRegistry.json");
+// exports.CommodityLiabilityToken = require("./abis/CommodityLiabilityToken.json");
+// exports.CommodityLiabilityTokenMarket = require("./abis/CommodityLiabilityTokenMarket.json");
+// exports.CommodityLiabilityTokenSale = require("./abis/CommodityLiabilityTokenSale.json");
+// exports.CommodityToken = require("./abis/CommodityToken.json");
+// exports.DomesticTrade = require("./abis/DomesticTrade.json");
+// exports.DomesticTradeFactory = require("./abis/DomesticTradeFactory.json");
+// exports.EReceiptInventoryTradeFactory = require("./abis/EReceiptInventoryTradeFactory.json");
+// exports.ExchangeVoucherForInput = require("./abis/ExchangeVoucherForInput.json");
+
+exports.CompoundRegistry = require("./abis/CompoundRegistry.json");
+exports.DistributionLendingAssessor = require("./abis/DistributionLendingAssessor.json");
+exports.DistributionLendingOperator = require("./abis/DistributionLendingOperator.json");
+
+exports.ERC20TokenRegistry = require("./abis/ERC20TokenRegistry.json");
+exports.ERC721TokenRegistry = require("./abis/ERC721TokenRegistry.json");
+exports.EReceiptInventoryTrade = require("./abis/EReceiptInventoryTrade.json");
+exports.ExternalLoanDebtKernel = require("./abis/ExternalLoanDebtKernel.json");
+
+exports.ExternalLoanDebtRegistry = require("./abis/ExternalLoanDebtRegistry.json");
+
+// exports.FiatToken = require("./abis/FiatToken.json");
+// exports.InventoryInterestTermsContract = require("./abis/InventoryInterestTermsContract.json");
+// exports.InventoryLoanDebtKernel = require("./abis/InventoryLoanDebtKernel.json");
+// exports.InventoryLoanDebtRegistry = require("./abis/InventoryLoanDebtRegistry.json");
+// exports.InventoryLoanRepaymentRouter = require("./abis/InventoryLoanRepaymentRouter.json");
+// exports.InvoiceFinanceInterestTermsContract = require("./abis/InvoiceFinanceInterestTermsContract.json");
+// exports.InvoiceLoanDebtKernel = require("./abis/InvoiceLoanDebtKernel.json");
+// exports.InvoiceDebtRegistry = require("./abis/InvoiceDebtRegistry.json");
+// exports.InvoiceLoanRepaymentRouter = require("./abis/InvoiceLoanRepaymentRouter.json");
+// exports.SupplyChainManagementProgram = require("./abis/SupplyChainManagementProgram.json");
+// exports.TokenTopup = require("./abis/TokenTopup.json");
+// exports.TokenTopupController = require("./abis/TokenTopupController.json");
+// exports.TokenWithdrawal = require("./abis/TokenWithdrawal.json");
+// exports.TokenWithdrawalController = require("./abis/TokenWithdrawalController.json");
+// exports.VoucherInputsToken = require("./abis/VoucherInputsToken.json");
+// exports.VoucherInputsTokenFactory = require("./abis/VoucherInputsTokenFactory.json");
+// exports.VoucherInputsDistributor = require("./abis/VoucherInputsDistributor.json");
+// exports.InputLoanDebtKernel = require("./abis/InputLoanDebtKernel.json");
+// exports.RepaymentRouter = require("./abis/RepaymentRouter.json");
+// exports.MembershipProvider = require("./abis/MembershipProvider.json");
+// exports.PaymentDeliveryTrade = require("./abis/PaymentDeliveryTrade.json");
+// exports.PaymentDeliveryTradeFactory = require("./abis/PaymentDeliveryTradeFactory.json");
+
+exports.LoanAssetTokenImplementation = require("./abis/LoanAssetTokenImplementation.json");
+exports.MintedIncreasingInterestTGEService = require("./abis/MintedIncreasingInterestTGEService.json");
+exports.UntangledMultiSignatureWallet = require("./abis/UntangledMultiSignatureWallet.json");
+exports.NotesToken = require("./abis/NotesToken.json");
+exports.RefundableMintedPostDeliveryTGEService = require("./abis/RefundableMintedPostDeliveryTGEService.json");
+exports.SecuritizationManagementProjectImplementation = require("./abis/SecuritizationManagementProjectImplementation.json");
+exports.ISecuritizationPool = require("./abis/ISecuritizationPool.json");
+exports.SecuritizationPoolValueService = require("./abis/SecuritizationPoolValueService.json");
+exports.ERC20Detailed = require("./abis/ERC20Detailed.json");
+exports.ICToken = require("./abis/ICToken.json");
