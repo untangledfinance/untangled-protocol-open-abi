@@ -41,7 +41,7 @@ exports.DistributionLendingOperator = require("./abis/DistributionLendingOperato
 
 exports.ERC20TokenRegistry = require("./abis/ERC20TokenRegistry.json");
 exports.ERC721TokenRegistry = require("./abis/ERC721TokenRegistry.json");
-exports.EReceiptInventoryTrade = require("./abis/EReceiptInventoryTrade.json");
+// exports.EReceiptInventoryTrade = require("./abis/EReceiptInventoryTrade.json");
 exports.ExternalLoanDebtKernel = require("./abis/ExternalLoanDebtKernel.json");
 
 exports.ExternalLoanDebtRegistry = require("./abis/ExternalLoanDebtRegistry.json");
